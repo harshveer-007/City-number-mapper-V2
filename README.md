@@ -1,6 +1,5 @@
 # City-number-mapper-V2
 A Python program that maps numbers to city names with JSON-based persistent storage.
-# city_number_mapper_V2
 
 ## 📌 Overview
 city_number_mapper_V2 is a simple Python program that maps numbers to city names.  
